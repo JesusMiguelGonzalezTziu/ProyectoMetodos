@@ -1,3 +1,4 @@
+#Integrantes: Jesus Miguel Gonzalez Tziu y Martin Alejandro Tec Cupul
 import numpy as np
 
 class Metodos:
